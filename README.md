@@ -15,7 +15,7 @@ Guises, to get started with pages, you first need to know there are 2 types of p
 ### User/Organization page
 
 - Content needs to be pushed to **master** branch
-- Repository name needs to be **[username].github.io**, i.e., if my username is **muan**, so my user page repository should be called **muan.github.io**
+- Repository name needs to be **[username].github.io**, i.e., my username is **muan**, so my user page repository should be called **muan.github.io**
 - You can only have **one** user/organization page per user/organanization (you can't have  2 repos named the same anyway)
 - Your page will be accessible at **[username].github.io**, and obviously **username** will be yours
 
